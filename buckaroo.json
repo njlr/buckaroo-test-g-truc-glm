@@ -1,0 +1,6 @@
+{
+  "name": "buckaroo-test-g-truc-glm",
+  "dependencies": {
+    "g-truc/glm": "0.9.8.4"
+  }
+}
